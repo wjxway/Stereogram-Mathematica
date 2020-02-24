@@ -74,6 +74,6 @@ for $y=1\to y_{max}$
 1. Less straight forward code.
 2. Slow in execution.
 
-##Acknowledgement
+## Acknowledgement
 
 Special Thanks to njpipeorgan for his marvelous [wll-interface](https://github.com/njpipeorgan/wll-interface)!
