@@ -1,4 +1,4 @@
-# Stereogram Generation
+# Stereogram Generation & Extraction
 
 ## Description
 
@@ -19,6 +19,8 @@ Two sample images are as follows:
 If viewed properly, both image should display a rabbit and a rabbit only. Note that in the second image, the color and texture are rendered properly. The first and the second type can be combined to create augmented hidden stereograms with darkened edges (easier and more visually pleasant to observe).
 
 ![combined](https://raw.githubusercontent.com/wjxway/image-storage/master/stereogram3.png)
+
+Updated code allows you to extract the height map from a stereogram, though the quality of the output image highly depends on the quality of import image... and the code is not automated enough, it might require some tweaking to work with your own case.
 
 ## Theory of Operation
 
